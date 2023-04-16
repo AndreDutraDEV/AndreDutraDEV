@@ -1,4 +1,4 @@
-## Olá, eu sou André Dutra, progamador Front-end e Back-end!
+## Olá, eu sou André Dutra, programador Front-end e Back-end!
 <div align="center">
   <a href="https://www.linkedin.com/in/andré-dutra-2a3b16225/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndreDutraDEV&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
